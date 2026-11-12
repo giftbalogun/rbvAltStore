@@ -8,34 +8,39 @@
   "iconURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
   "headerURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
   "website": "https://www.royalbv.name.ng",
-  "news": [
-    {
-      "title": "New News Item",
-      "identifier": "D1E53A69-10B7-494E-8AA0-2180483B224F",
-      "caption": "",
-      "date": "2026-11-12T17:47:08Z"
-    }
-  ],
   "apps": [
     {
       "name": "Woocommerce Inventory App",
       "bundleIdentifier": "com.iyoocartel.inventory",
       "developerName": "Royal Bcode Ventures",
-      "localizedDescription": "",
-      "iconURL": "",
+      "subtitle": "sss",
+      "localizedSubtitles": {
+        "en": ""
+      },
+      "localizedDescription": "Ecommerce App",
+      "iconURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
       "category": "utilities",
+      "screenshots": [
+        "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75"
+      ],
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.0.0",
           "buildVersion": "1",
-          "date": "2026-11-12T15:21:29Z",
-          "downloadURL": "",
-          "size": 0
+          "date": "2026-11-12T18:02:47Z",
+          "downloadURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
+          "size": 8030900,
+          "minOSVersion": "15.0",
+          "localizedDescriptions": {
+            "en": ""
+          }
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "https://www.royalbv.name.ng/_next/image?url": "%2Fimages%2Frbv-logo-transparent.png&w=48&q=75"
+        }
       }
     }
   ]
