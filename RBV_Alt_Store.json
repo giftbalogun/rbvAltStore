@@ -1,0 +1,42 @@
+{
+  "name": "Royal Bcode Ventures",
+  "subtitle": "Your World of Custom Apps",
+  "localizedSubtitles": {
+    "en": ""
+  },
+  "description": "To distribute your apps with AltStore you need to first create a source, which is just a self-hosted JSON file containing basic metadata about your apps. Below is a list of required keys to make a valid source in AltStore along with optional keys you can use to further customize your source.",
+  "iconURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
+  "headerURL": "https://www.royalbv.name.ng/_next/image?url=%2Fimages%2Frbv-logo-transparent.png&w=48&q=75",
+  "website": "https://www.royalbv.name.ng",
+  "news": [
+    {
+      "title": "New News Item",
+      "identifier": "D1E53A69-10B7-494E-8AA0-2180483B224F",
+      "caption": "",
+      "date": "2026-11-12T17:47:08Z"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Woocommerce Inventory App",
+      "bundleIdentifier": "com.iyoocartel.inventory",
+      "developerName": "Royal Bcode Ventures",
+      "localizedDescription": "",
+      "iconURL": "",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-12T15:21:29Z",
+          "downloadURL": "",
+          "size": 0
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
